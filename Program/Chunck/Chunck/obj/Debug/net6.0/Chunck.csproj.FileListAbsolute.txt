@@ -1,0 +1,15 @@
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\bin\Debug\net6.0\Chunck.exe
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\bin\Debug\net6.0\Chunck.deps.json
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\bin\Debug\net6.0\Chunck.runtimeconfig.json
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\bin\Debug\net6.0\Chunck.dll
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\bin\Debug\net6.0\ref\Chunck.dll
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\bin\Debug\net6.0\Chunck.pdb
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.csproj.AssemblyReference.cache
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.AssemblyInfoInputs.cache
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.AssemblyInfo.cs
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.csproj.CoreCompileInputs.cache
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.dll
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\ref\Chunck.dll
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.pdb
+D:\Documents\TypingExercises\SpecificKeys\Chunck\Chunck\obj\Debug\net6.0\Chunck.genruntimeconfig.cache

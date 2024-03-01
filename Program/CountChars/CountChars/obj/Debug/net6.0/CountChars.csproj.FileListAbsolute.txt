@@ -1,0 +1,15 @@
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\bin\Debug\net6.0\CountChars.exe
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\bin\Debug\net6.0\CountChars.deps.json
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\bin\Debug\net6.0\CountChars.runtimeconfig.json
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\bin\Debug\net6.0\CountChars.dll
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\bin\Debug\net6.0\ref\CountChars.dll
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\bin\Debug\net6.0\CountChars.pdb
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.csproj.AssemblyReference.cache
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.AssemblyInfoInputs.cache
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.AssemblyInfo.cs
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.csproj.CoreCompileInputs.cache
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.dll
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\ref\CountChars.dll
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.pdb
+D:\Documents\TypingExercises\SpecificKeys\J\CountChars\CountChars\obj\Debug\net6.0\CountChars.genruntimeconfig.cache
